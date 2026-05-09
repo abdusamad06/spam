@@ -138,7 +138,7 @@
       <div class="input-lbl">CLIENT ID ВОРИД КУНЕД</div>
       <input class="field" id="client-id-input" placeholder="xxxxxxxx.apps.googleusercontent.com" />
       <div class="error-box" id="error-box" style="display:none"></div>
-      <button class="btn-main" id="signin-btn">▶ GMAIL-ГА ПАЙВАСТ ШАВЕД</button>
+      <button class="btn-main" id="signin-btn">▶ GMAIL ПАЙВАСТ КУН</button>
     </div>
     <div class="privacy">Барнома танҳо паёмҳоро мехонад (read-only).<br>Маълумоти шумо дар сервери сеюм захира намешавад.</div>
   </div>
